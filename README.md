@@ -55,12 +55,12 @@ npm run dev
 
 ## Project Structure
 \`\`\`
-├── app/                    # Next.js frontend pages
+├── frontend/              # Next.js frontend
 ├── backend/               # Express.js backend
 │   ├── src/
 │   │   ├── models/       # MongoDB models
 │   │   ├── routes/       # API routes
 │   │   └── server.ts     # Main server file
 │   └── package.json
-├── package.json          # Frontend dependencies
+├── package.json          # dependencies
 └── README.md
